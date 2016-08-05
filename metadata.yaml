@@ -1,0 +1,61 @@
+_repo: Theresa-Raquin_6626
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Vizetelly, Ernest Alfred
+    alias: Vizetelly, E. A. (Ernest Alfred)
+    birthdate: 1853
+    deathdate: 1922
+    gutenberg_agent_id: '3192'
+    url: http://www.gutenberg.org/2009/agents/3192
+creator:
+  author:
+    agent_name: Zola, Émile
+    alias: Zola, Émile Édouard Charles Antoine
+    birthdate: 1840
+    deathdate: 1902
+    gutenberg_agent_id: '528'
+    url: http://www.gutenberg.org/2009/agents/528
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Émile_Zola
+    - http://fr.wikipedia.org/wiki/%C3%89mile_Zola
+description: "Thérèse Raquin [teʁɛz ʁakɛ̃] is a novel (first published in 1867) and\
+  \ a play (first performed in 1873) by the French writer Émile Zola. The novel was\
+  \ originally published in serial format in the journal L'Artiste and in book format\
+  \ in December of the same year.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2006-04-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6626'
+  wikidata: Q268545
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Murder -- Fiction'
+- !lcsh 'Adultery -- Fiction'
+- !lcsh 'Guilt -- Fiction'
+- GITenberg
+title: Theresa Raquin
+url: http://www.gutenberg.org/ebooks/6626
+wikipedia:
+- https://et.wikipedia.org/wiki/Th%C3%A9r%C3%A8se_Raquin
+- https://fr.wikipedia.org/wiki/Th%C3%A9r%C3%A8se_Raquin
+- https://ar.wikipedia.org/wiki/%D8%AA%D9%8A%D8%B1%D9%8A%D8%B2_%D8%B1%D8%A7%D9%83%D9%88%D9%86
+- https://pt.wikipedia.org/wiki/Th%C3%A9r%C3%A8se_Raquin
+- https://pl.wikipedia.org/wiki/Teresa_Raquin
+- https://hy.wikipedia.org/wiki/%D4%B9%D5%A5%D6%80%D5%A5%D5%A6_%D5%8C%D5%A1%D6%84%D5%A5%D5%B6
+- https://sv.wikipedia.org/wiki/Th%C3%A9r%C3%A8se_Raquin
+- https://de.wikipedia.org/wiki/Th%C3%A9r%C3%A8se_Raquin
+- https://tr.wikipedia.org/wiki/Th%C3%A9r%C3%A8se_Raquin
+- https://es.wikipedia.org/wiki/Th%C3%A9r%C3%A8se_Raquin
+- https://en.wikipedia.org/wiki/Th%C3%A9r%C3%A8se_Raquin
+- https://it.wikipedia.org/wiki/Teresa_Raquin_(romanzo)
+- https://no.wikipedia.org/wiki/Th%C3%A9r%C3%A8se_Raquin
+- https://hr.wikipedia.org/wiki/Th%C3%A9r%C3%A8se_Raquin
+- https://sh.wikipedia.org/wiki/Th%C3%A9r%C3%A8se_Raquin
+- https://ro.wikipedia.org/wiki/Th%C3%A9r%C3%A8se_Raquin
+- https://ko.wikipedia.org/wiki/%ED%85%8C%EB%A0%88%EC%A6%88_%EB%9D%BC%EC%BA%A5
+- https://fr.wikisource.org/wiki/Th%C3%A9r%C3%A8se_Raquin
